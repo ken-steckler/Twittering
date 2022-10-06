@@ -22,10 +22,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-User can campose a tweet
+User can campose a tweet <br />
 <img src='http://g.recordit.co/rl8CUN4LRI.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-User can favorite a tweet and user can retweet a tweet
+User can favorite a tweet and user can retweet a tweet <br />
 <img src='http://g.recordit.co/5z6U44NgqX.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
