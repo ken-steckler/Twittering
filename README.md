@@ -29,7 +29,7 @@ User can favorite a tweet and user can retweet a tweet <br />
 <img src='http://g.recordit.co/5z6U44NgqX.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 Showing that tweet was actually retweeted from the app <br />
-<img src='http://g.recordit.co/Je3nYtChsB.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/Je3nYtChsB.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 
 
